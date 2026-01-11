@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction | Kaggle ML Competition
 
-A machine learning project built for the Kaggle **House Prices: Advanced Regression Techniques** competition. This project uses a **Random Forest Regressor** to predict house sale prices from structured housing data, following a complete end-to-end machine learning workflow.
+A machine learning project built for the Kaggle **Housing Prices** competition. This project uses a **Random Forest Regressor** to predict house sale prices from structured housing data, following a complete end-to-end machine learning workflow.
 
 The focus is on feature selection, model training, validation using **Mean Absolute Error (MAE)**, and generating Kaggle-ready submission files.
 
